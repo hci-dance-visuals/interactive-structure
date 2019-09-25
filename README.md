@@ -7,7 +7,7 @@ You need to download Isadora software version v2.6.1 (Mac and Windows)to work wi
 
 You can ignore the message coming up when opening the patch (which asks for missing plug-ins) to work with this patch. However, if you want to try out the mocap-avatar prototype as well, you need to have the plug-ins installed. They can be found here:
 
-https://troikatronix.com/plugin/rutt-etra-for-isadora-2/ 
+https://troikatronix.com/plugin/rutt-etra-for-isadora-2/;
 https://troikatronix.com/plugin/tt-ffgl-for-isadora-2-3/ and 
 https://support.troikatronix.com/support/solutions/articles/13000047284-isadora-2-troikatronix-freeframegl-pack
 
