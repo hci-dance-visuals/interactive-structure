@@ -3,7 +3,7 @@ The "interactive-structure" prototype demonstrates one possible way of visualizi
 
 ### dependencies
 
-You need to download Isadora software version v2.6.1 (Mac and Windows)to work with the provided patch: https://support.troikatronix.com/support/solutions/articles/13000029004-where-can-i-download-older-versions-of-isadora-
+You need to download Isadora software version v2.6.1 (Mac and Windows) to work with the provided patch: https://support.troikatronix.com/support/solutions/articles/13000029004-where-can-i-download-older-versions-of-isadora-
 
 You can ignore the message coming up when opening the patch (which asks for missing plug-ins) to work with this patch. However, if you want to try out the mocap-avatar prototype as well, you need to have the plug-ins installed. They can be found here:
 
