@@ -11,7 +11,13 @@ https://troikatronix.com/plugin/rutt-etra-for-isadora-2/;
 https://troikatronix.com/plugin/tt-ffgl-for-isadora-2-3/ and 
 https://support.troikatronix.com/support/solutions/articles/13000047284-isadora-2-troikatronix-freeframegl-pack
 
+You need to have the system extension Soundflower installed:
+https://www.fluxforge.com/blog/soundflower-os-x-10.11-10.12-macOS-sierra/
+
 
 ### instructions to run
 
-After installing Isadora v2.6.1 (and eventually) the plug-ins listed above, you work with the interactive-structure patch. There is a simple GUI (called control interface in Isadora), which allows you to make choices suggested by the artificial digital character in each scene. To see the programming level "underneath" go to the menu/view/Actor/Control Split. Note that this patch only serves to demonstrate the prototype. In the (real world) rehearsal scenario you would create contents and interaction strategies according to your own dramaturgical ideas and needs. You can also substitute the controll interface with OSC controllers (We have worked with TouchOSC).
+After installing Isadora v2.6.1 (and eventually) the plug-ins listed above, you work with the interactive-structure patch. There is a simple GUI (called control interface in Isadora), which allows you to make choices suggested by the artificial digital character in each scene. To see the programming level "underneath" go to the menu/view/Actor/Control Split. 
+To enable the artificial digital character's voice go to the Isadora menue Input/Live Capture Settings/ Sound Input, choose Soundflower 2ch, and start the live capture.
+
+Note that this patch only serves to demonstrate the prototype. In the (real world) rehearsal scenario you would create contents and interaction strategies according to your own dramaturgical ideas and needs. You can also substitute the controll interface with OSC controllers (We have worked with TouchOSC).
